@@ -1,2 +1,2 @@
 # FreeCodeCamp
- Free Code Camp Course - Solved solutions for the exercises
+ Free Code Camp - Web Development Course - Solved solutions for the exercises
